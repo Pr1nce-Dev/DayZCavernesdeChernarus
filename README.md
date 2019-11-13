@@ -1,6 +1,6 @@
 # DayZCavernesdeChernarus
 <a href="https://zupimages.net/viewer.php?id=19/46/xbdb.png"><img src="https://zupimages.net/up/19/46/xbdb.png" alt="" /></a>
-<B><FONT>CREER PAR PR1NCE !</FONT></B>
+<P><B><FONT>CREER PAR PR1NCE !</FONT></B></P>
 
 Mapping  qui ajoute des Cavernes sur Chernarus
 
