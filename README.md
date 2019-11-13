@@ -15,7 +15,7 @@ https://steamcommunity.com/workshop/filedetails/?id=1565871491
 
 
 2/ Télècharger le Fichier INIT
-
+http://www.okok.fr/informations-fichier/1e814418-cadf-4e25-a4de-949b1f8a9e40
 
 3/ Ouvrer avec Notepad++ et copier le contenu pour enssuite l'introduire dans votre fichier "init.c" de DAYZSERVER qui ce situe a cet emplacement :
 "F:\Games\Steam Games\steamapps\common\DayZServer\mpmissions\dayzOffline.chernarusplus"
